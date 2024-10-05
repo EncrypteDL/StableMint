@@ -2,7 +2,7 @@
 
 StableMint is a decentralized, over-collateralized stablecoin system designed to maintain a stable 1:1 peg with fiat currencies through transparent, algorithmic mechanisms. It enables users to mint stablecoins by locking crypto assets in smart contracts, ensuring liquidity and stability within decentralized financial ecosystems.
 
-**Learn more about DAI stable Coin:** 
+**Learn more about DAI stable Coin:**  https://decrypt101.gitbook.io/decrypt101/defi-as-services/dai-stablecoin-system
 
 ## Usage
 
